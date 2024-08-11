@@ -1,4 +1,4 @@
-Şu anda Front-end Developer Bootcamp üzerinde çalışıyorum
+Şu anda Front-end Developer Bootcamp üzerinde çalışıyorum.
 
 Çalışmalarıma https://github.com/Sergenyaniklar adresinde bakabilirsiniz.
 
