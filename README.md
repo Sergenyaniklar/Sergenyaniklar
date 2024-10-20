@@ -6,3 +6,5 @@
 </ul>
 <hr>
 <h1>Technologies:</h1>
+![image](https://github.com/user-attachments/assets/5b34035b-c496-4370-a339-8b477c781ed5)
+
