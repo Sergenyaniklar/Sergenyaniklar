@@ -1,8 +1,8 @@
 ☄️ Hey! I'm Sergen.
+<hr>
 <ul>
-  <li>👾 I’m currently working with React.js and anything related with JavaScript.</li>
+  <li>👾I’m currently working with CSS, React.js and anything related with JavaScript.</li>
+  <li>📫 Bana nasıl ulaşabilirsiniz sergen.ynklr701@gmail.com</li>
 </ul>
-
-Çalışmalarıma https://github.com/Sergenyaniklar adresinde bakabilirsiniz.
-
-Bana ulaşabilirsiniz: sergen.ynklr701@gmail.com
+<hr>
+<h1>Technologies:</h1>
