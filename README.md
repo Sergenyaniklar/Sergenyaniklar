@@ -6,5 +6,16 @@
 </ul>
 <hr>
 <h1>Technologies:</h1>
-![image](https://github.com/user-attachments/assets/5b34035b-c496-4370-a339-8b477c781ed5)
-
+<ul>
+   <li>JavaScript</li>
+   <li>React</li>
+   <li>CSS</li>
+   <li>HTML</li>
+   
+</ul>
+<hr>
+<h1>Tools:</h1>
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Adobe Photoshop</li>
+</ul>
