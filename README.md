@@ -1,4 +1,5 @@
-Şu anda Front-end Developer Bootcamp üzerinde çalışıyorum.
+☄️ Hey! I'm Sergen.
+
 
 Çalışmalarıma https://github.com/Sergenyaniklar adresinde bakabilirsiniz.
 
