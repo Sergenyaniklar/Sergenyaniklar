@@ -2,7 +2,7 @@
 <hr>
 <ul>
   <li>👾I’m currently working with CSS, React.js and anything related with JavaScript.</li>
-  <li>📫 Bana nasıl ulaşabilirsiniz sergen.ynklr701@gmail.com</li>
+  <li>📫 How to contact me? sergen.ynklr701@gmail.com</li>
 </ul>
 <h1>Technologies:</h1>
 <ul>
